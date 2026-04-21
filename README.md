@@ -1,2 +1,3 @@
-# Calculadora--git
-Mi primer proyecto de Git
+Proceso suma
+    Escribir 2 + 2
+FinProceso
